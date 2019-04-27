@@ -15,5 +15,3 @@ def int_input(texto):
 
 def float_input(texto):
     return float(input(texto))
-
-def print_for(num, add)
